@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeo96\\source\\repos\\Room Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9073E4EA-8B66-4571-9670-B6CC61D902B7}|Room Calculator\\Room Calculator.csproj|c:\\users\\jeo96\\source\\repos\\room calculator\\room calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9073E4EA-8B66-4571-9670-B6CC61D902B7}|Room Calculator\\Room Calculator.csproj|solutionrelative:room calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeo96\\source\\repos\\Room Calculator\\Room Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Room Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\jeo96\\source\\repos\\Room Calculator\\Room Calculator\\Program.cs",
+              "RelativeToolTip": "Room Calculator\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:02:19.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
